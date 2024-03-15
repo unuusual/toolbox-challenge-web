@@ -1,0 +1,11 @@
+.loader-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.error-response {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
